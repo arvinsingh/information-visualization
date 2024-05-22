@@ -31,3 +31,22 @@ Description of the database from Kaggle:
 3. Seaborn (Python)
 4. Matplotlib (Python)
 5. Plotly (Python)
+
+### Results:
+
+#### By Arvin
+
+<table>
+  <tr>
+    <td> <img src="Phase A/Arvin/Source - design 1/Design 1.png"  width = 700px></td>
+   </tr>
+    <tr>
+    <td><img src="Phase A/Arvin/Source - design 2/Design 2.png" width = 700px></td>
+  </tr>
+   <tr>
+    <td> <img src="Phase C/Source - design/Design.png"  width = 700px></td>
+   </tr>
+</table>
+
+> [!NOTE] 
+> Rest of the visualizations are in the reports & notebooks.
